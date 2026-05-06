@@ -1,0 +1,1 @@
+Son como cajas con etiquetas que dentro contienen datos que luego puedes utilizar en tus bloques de código.
