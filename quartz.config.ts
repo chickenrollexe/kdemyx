@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "chickenrollexe.github.io/kdemyx",
+    baseUrl: "https://chickenrollexe.github.io/kdemyx",
     ignorePatterns: ["PERSONAL", "private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
