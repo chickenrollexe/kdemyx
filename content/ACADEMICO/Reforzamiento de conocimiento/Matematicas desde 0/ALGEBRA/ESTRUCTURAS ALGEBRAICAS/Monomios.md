@@ -1,0 +1,1 @@
+Un monomio es un término algebraico.

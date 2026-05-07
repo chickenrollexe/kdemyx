@@ -1,0 +1,1 @@
+Crear la caja y etiquetarla
