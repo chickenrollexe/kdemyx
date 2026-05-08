@@ -1,5 +1,5 @@
-![[Pasted image 20260507224737.png]]
-![[IMG-20260507231951558.jpg]]
+![[IMG-20260507233037670.png]]
+![[IMG-20260507233037727.jpg]]
 
 constante de integración
 f= ? x a la 3+___
