@@ -1,5 +1,5 @@
 ![[Pasted image 20260507224737.png]]
-![[evaluacion diagnostica 2.pdf]]
+![[IMG-20260507231951558.jpg]]
 
 constante de integración
 f= ? x a la 3+___
