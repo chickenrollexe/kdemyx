@@ -16,7 +16,7 @@ cd /d "C:\Users\Chickenroll81\quartz"
 
 set timestamp=%DATE% %TIME%
 git add .
-git commit -m "Update: %timestamp% (Excluidos PERSONAL y PLANTILLAS)"
+git commit -m "Update: %timestamp%"
 
 echo.
 echo 🚀 3/3: Subiendo a la nube...
