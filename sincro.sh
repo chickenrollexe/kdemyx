@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Rutas exactas proporcionadas
-VAULT_ORIGEN="/home/krollx/Documents/documentos/Obsidian Vault/krollx vault"
+VAULT_ORIGEN="/home/krollx/Documents/Obisidian/Obsidian Vault/krollx vault"
 DESTINO_QUARTZ="/home/krollx/kdemyx/content"
 
 echo "🔄 1/3: Sincronizando notas de Obsidian a Quartz..."

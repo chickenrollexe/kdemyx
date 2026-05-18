@@ -10,3 +10,4 @@ Un polinomio es una suma de monomios.
 ### Tienes que saber:
 - [[Partes de un monomio]]
 - [[Termino algebraico]]
+- [[Factorización]]
